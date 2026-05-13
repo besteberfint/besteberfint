@@ -7,6 +7,4 @@ Siber güvenlik alanında kendimi geliştiriyor, ofansif ve defansif güvenlik a
 - 🛡️ **[RedRecon](https://github.com/besteberfint/RedRecon.git):** crt.sh tabanlı pasif subdomain keşif aracı.
 - 🔍 **[NetProbe](Lhttps://github.com/besteberfint/NetProbe.git):** Python Socket ile geliştirilmiş hızlı TCP port tarayıcı.
 
-## 💻 Yetkinlikler
-- **Diller:** Python, C++, SQL
-- **Alanlar:** Web Security, Network Scanning, OSINT
+
